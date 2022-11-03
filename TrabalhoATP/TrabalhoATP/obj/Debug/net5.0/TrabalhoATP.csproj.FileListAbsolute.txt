@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\bin\Debug\net5.0\TrabalhoATP.exe
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\bin\Debug\net5.0\TrabalhoATP.deps.json
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\bin\Debug\net5.0\TrabalhoATP.runtimeconfig.json
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\bin\Debug\net5.0\TrabalhoATP.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\bin\Debug\net5.0\TrabalhoATP.dll
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\bin\Debug\net5.0\TrabalhoATP.pdb
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\TrabalhoATP.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\TrabalhoATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\TrabalhoATP.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\TrabalhoATP.AssemblyInfo.cs
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\TrabalhoATP.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\TrabalhoATP.dll
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\refint\TrabalhoATP.dll
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\TrabalhoATP.pdb
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\TrabalhoATP.genruntimeconfig.cache
+C:\Users\caalb\source\repos\TrabalhoATP\TrabalhoATP\obj\Debug\net5.0\ref\TrabalhoATP.dll
