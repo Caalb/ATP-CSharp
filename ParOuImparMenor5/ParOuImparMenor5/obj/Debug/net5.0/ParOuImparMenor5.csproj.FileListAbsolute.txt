@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\bin\Debug\net5.0\ParOuImparMenor5.exe
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\bin\Debug\net5.0\ParOuImparMenor5.deps.json
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\bin\Debug\net5.0\ParOuImparMenor5.runtimeconfig.json
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\bin\Debug\net5.0\ParOuImparMenor5.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\bin\Debug\net5.0\ParOuImparMenor5.dll
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\bin\Debug\net5.0\ParOuImparMenor5.pdb
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ParOuImparMenor5.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ParOuImparMenor5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ParOuImparMenor5.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ParOuImparMenor5.AssemblyInfo.cs
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ParOuImparMenor5.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ParOuImparMenor5.dll
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\refint\ParOuImparMenor5.dll
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ParOuImparMenor5.pdb
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ParOuImparMenor5.genruntimeconfig.cache
+C:\Users\caalb\source\repos\ParOuImparMenor5\ParOuImparMenor5\obj\Debug\net5.0\ref\ParOuImparMenor5.dll

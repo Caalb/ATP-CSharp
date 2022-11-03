@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\bin\Debug\net5.0\PontuacaoPorJogos.exe
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\bin\Debug\net5.0\PontuacaoPorJogos.deps.json
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\bin\Debug\net5.0\PontuacaoPorJogos.runtimeconfig.json
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\bin\Debug\net5.0\PontuacaoPorJogos.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\bin\Debug\net5.0\PontuacaoPorJogos.dll
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\bin\Debug\net5.0\PontuacaoPorJogos.pdb
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\PontuacaoPorJogos.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\PontuacaoPorJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\PontuacaoPorJogos.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\PontuacaoPorJogos.AssemblyInfo.cs
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\PontuacaoPorJogos.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\PontuacaoPorJogos.dll
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\refint\PontuacaoPorJogos.dll
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\PontuacaoPorJogos.pdb
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\PontuacaoPorJogos.genruntimeconfig.cache
+C:\Users\caalb\source\repos\PontuacaoPorJogos\PontuacaoPorJogos\obj\Debug\net5.0\ref\PontuacaoPorJogos.dll

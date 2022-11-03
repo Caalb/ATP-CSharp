@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ParOuImparMenor5/1.0.0": {
+        "runtime": {
+          "ParOuImparMenor5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParOuImparMenor5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
