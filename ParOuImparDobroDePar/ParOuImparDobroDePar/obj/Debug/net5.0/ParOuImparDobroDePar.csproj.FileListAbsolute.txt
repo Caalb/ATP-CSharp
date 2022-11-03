@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\bin\Debug\net5.0\ParOuImparDobroDePar.exe
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\bin\Debug\net5.0\ParOuImparDobroDePar.deps.json
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\bin\Debug\net5.0\ParOuImparDobroDePar.runtimeconfig.json
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\bin\Debug\net5.0\ParOuImparDobroDePar.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\bin\Debug\net5.0\ParOuImparDobroDePar.dll
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\bin\Debug\net5.0\ParOuImparDobroDePar.pdb
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ParOuImparDobroDePar.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ParOuImparDobroDePar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ParOuImparDobroDePar.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ParOuImparDobroDePar.AssemblyInfo.cs
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ParOuImparDobroDePar.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ParOuImparDobroDePar.dll
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\refint\ParOuImparDobroDePar.dll
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ParOuImparDobroDePar.pdb
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ParOuImparDobroDePar.genruntimeconfig.cache
+C:\Users\caalb\source\repos\ParOuImparDobroDePar\ParOuImparDobroDePar\obj\Debug\net5.0\ref\ParOuImparDobroDePar.dll
