@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\bin\Debug\net5.0\MostrarPrimosAteN.exe
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\bin\Debug\net5.0\MostrarPrimosAteN.deps.json
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\bin\Debug\net5.0\MostrarPrimosAteN.runtimeconfig.json
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\bin\Debug\net5.0\MostrarPrimosAteN.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\bin\Debug\net5.0\MostrarPrimosAteN.dll
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\bin\Debug\net5.0\MostrarPrimosAteN.pdb
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\MostrarPrimosAteN.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\MostrarPrimosAteN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\MostrarPrimosAteN.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\MostrarPrimosAteN.AssemblyInfo.cs
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\MostrarPrimosAteN.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\MostrarPrimosAteN.dll
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\refint\MostrarPrimosAteN.dll
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\MostrarPrimosAteN.pdb
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\MostrarPrimosAteN.genruntimeconfig.cache
+C:\Users\caalb\source\repos\MostrarPrimosAteN\MostrarPrimosAteN\obj\Debug\net5.0\ref\MostrarPrimosAteN.dll

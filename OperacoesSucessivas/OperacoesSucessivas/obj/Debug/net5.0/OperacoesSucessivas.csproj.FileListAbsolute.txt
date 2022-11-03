@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\bin\Debug\net5.0\OperacoesSucessivas.exe
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\bin\Debug\net5.0\OperacoesSucessivas.deps.json
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\bin\Debug\net5.0\OperacoesSucessivas.runtimeconfig.json
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\bin\Debug\net5.0\OperacoesSucessivas.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\bin\Debug\net5.0\OperacoesSucessivas.dll
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\bin\Debug\net5.0\OperacoesSucessivas.pdb
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\OperacoesSucessivas.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\OperacoesSucessivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\OperacoesSucessivas.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\OperacoesSucessivas.AssemblyInfo.cs
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\OperacoesSucessivas.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\OperacoesSucessivas.dll
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\refint\OperacoesSucessivas.dll
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\OperacoesSucessivas.pdb
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\OperacoesSucessivas.genruntimeconfig.cache
+C:\Users\caalb\source\repos\OperacoesSucessivas\OperacoesSucessivas\obj\Debug\net5.0\ref\OperacoesSucessivas.dll

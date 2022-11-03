@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ParesOrdenados.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ParesOrdenados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ParesOrdenados.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ParesOrdenados.AssemblyInfo.cs
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ParesOrdenados.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\bin\Debug\net5.0\ParesOrdenados.exe
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\bin\Debug\net5.0\ParesOrdenados.deps.json
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\bin\Debug\net5.0\ParesOrdenados.runtimeconfig.json
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\bin\Debug\net5.0\ParesOrdenados.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\bin\Debug\net5.0\ParesOrdenados.dll
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\bin\Debug\net5.0\ParesOrdenados.pdb
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ParesOrdenados.dll
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\refint\ParesOrdenados.dll
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ParesOrdenados.pdb
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ParesOrdenados.genruntimeconfig.cache
+C:\Users\caalb\source\repos\ParesOrdenados\ParesOrdenados\obj\Debug\net5.0\ref\ParesOrdenados.dll
