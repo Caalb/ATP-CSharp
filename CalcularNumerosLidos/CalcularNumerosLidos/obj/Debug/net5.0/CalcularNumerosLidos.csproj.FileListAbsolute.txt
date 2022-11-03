@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\bin\Debug\net5.0\CalcularNumerosLidos.exe
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\bin\Debug\net5.0\CalcularNumerosLidos.deps.json
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\bin\Debug\net5.0\CalcularNumerosLidos.runtimeconfig.json
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\bin\Debug\net5.0\CalcularNumerosLidos.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\bin\Debug\net5.0\CalcularNumerosLidos.dll
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\bin\Debug\net5.0\CalcularNumerosLidos.pdb
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\CalcularNumerosLidos.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\CalcularNumerosLidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\CalcularNumerosLidos.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\CalcularNumerosLidos.AssemblyInfo.cs
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\CalcularNumerosLidos.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\CalcularNumerosLidos.dll
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\refint\CalcularNumerosLidos.dll
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\CalcularNumerosLidos.pdb
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\CalcularNumerosLidos.genruntimeconfig.cache
+C:\Users\caalb\source\repos\CalcularNumerosLidos\CalcularNumerosLidos\obj\Debug\net5.0\ref\CalcularNumerosLidos.dll

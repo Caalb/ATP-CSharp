@@ -1,0 +1,16 @@
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\bin\Debug\net5.0\CalcularSaldoConta.exe
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\bin\Debug\net5.0\CalcularSaldoConta.deps.json
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\bin\Debug\net5.0\CalcularSaldoConta.runtimeconfig.json
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\bin\Debug\net5.0\CalcularSaldoConta.runtimeconfig.dev.json
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\bin\Debug\net5.0\CalcularSaldoConta.dll
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\bin\Debug\net5.0\CalcularSaldoConta.pdb
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\CalcularSaldoConta.csproj.AssemblyReference.cache
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\CalcularSaldoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\CalcularSaldoConta.AssemblyInfoInputs.cache
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\CalcularSaldoConta.AssemblyInfo.cs
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\CalcularSaldoConta.csproj.CoreCompileInputs.cache
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\CalcularSaldoConta.dll
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\refint\CalcularSaldoConta.dll
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\CalcularSaldoConta.pdb
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\CalcularSaldoConta.genruntimeconfig.cache
+C:\Users\caalb\source\repos\CalcularSaldoConta\CalcularSaldoConta\obj\Debug\net5.0\ref\CalcularSaldoConta.dll
